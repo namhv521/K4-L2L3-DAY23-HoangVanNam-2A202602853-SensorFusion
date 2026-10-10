@@ -6,7 +6,7 @@
 - MSSV: 2A202602853
 - Email: namhv.nitc@gmail.com (theo cấu hình Git của workspace)
 - Link repo (fork): https://github.com/namhv521/K4-L2L3-DAY23-HoangVanNam-2A202602853-SensorFusion
-- Commit hash nộp (`git rev-parse HEAD`): lấy hash 40 ký tự sau commit cuối; URL bài nộp VLearn dùng `/tree/<hash>` để khóa đúng phiên bản. Không nhúng hash của chính commit chứa báo cáo vào file vì làm thay đổi hash đó.
+- Commit hash nộp (`git rev-parse HEAD`): d147d8ab474a394cf0a1357836fc5999393a4234
 
 ## Tóm tắt kết quả
 
